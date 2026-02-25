@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "message": "سرورهای جدید اضافه شد",
+  "servers": [
+    {
+      "name": "Germany 🇩🇪",
+      "type": "vless",
+      "config": "vless://cb6724d6-4900-4188-ae20-5d89b626394d@103.85.75.83:58472?security=reality&encryption=none&pbk=f6jIBpzHwC1lDAwvJojvEIPlwZqyEkL0gVsJxmeRLCI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.discoverasr.com&sid=44ef9a66271b4e#qn_2600"
+    },
+    {
+      "name": "France 🇫🇷",
+      "type": "vmess",
+      "config": "vless://cb6724d6-4900-4188-ae20-5d89b626394d@103.85.75.83:58472?security=reality&encryption=none&pbk=f6jIBpzHwC1lDAwvJojvEIPlwZqyEkL0gVsJxmeRLCI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.discoverasr.com&sid=44ef9a66271b4e#qn_2600"
+    }
+  ]
+}
